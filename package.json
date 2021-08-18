@@ -7,8 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jacob Zwang <zwang.jacob@gmail.com>",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^16.6.1"
-  }
+  "license": "ISC"
 }
